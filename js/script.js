@@ -180,7 +180,7 @@
 
 
 
-const personalMovieDB = {
+let personalMovieDB = {
 	count: 0,
 	movies: {},
 	actors: {},
